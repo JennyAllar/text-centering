@@ -1,3 +1,5 @@
+https://travis-ci.org/JennyAllar/text-centering.svg?branch=v1
+
 # Text Centering
 
 ## Setup
